@@ -162,7 +162,7 @@ input[type=submit]:hover {
 .container .form-group {
   text-align: center;
   border-radius: 5px;
-  background-color: #f3f3f3;
+  background: #f3f3f3;
   color: black;
   font-family: Arial, Helvetica, sans-serif;
   color: #332;
@@ -173,15 +173,14 @@ input[type=submit]:hover {
 
 table {
   font-size: 25px;
-  text-align: center;  
-    width: 100%;
-padding: 10px;
- border-collapse: collapse;
-    margin: 25px 0;
-    font-size: 0.9em;
-    min-width: 400px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-
+  text-align: center;
+  width: 100%;
+  padding: 10px;
+  border-collapse: collapse;
+  font-size: 0.9em;
+  min-width: 400px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  background: #f3f3f3;
 }
 
 button {
